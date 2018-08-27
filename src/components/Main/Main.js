@@ -7,9 +7,9 @@ import Main from './Main.scss';
 class MainComponent extends Component {
   render() {
     return (
-      <div>
+      <main>
         <Form />
-      </div>
+      </main>
     );
   }
 }
